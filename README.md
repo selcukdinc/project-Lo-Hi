@@ -21,3 +21,11 @@ Learn oled screen library [OLED_I2C](http://www.rinkydinkelectronics.com/library
 
 https://github.com/selcukdinc/project-Lo-Hi/assets/149238218/ce3c29ff-aa05-4d1c-a4b3-500e6209c875
 
+Rectangle video :
+
+https://github.com/selcukdinc/project-Lo-Hi/assets/149238218/a79ad670-5e6c-4d9d-a9f8-fc4ff4176660 
+
+Rectangle_and_joystick
+
+https://github.com/selcukdinc/project-Lo-Hi/assets/149238218/e47b21bd-7662-4cc7-ab15-c93b309984c7
+
