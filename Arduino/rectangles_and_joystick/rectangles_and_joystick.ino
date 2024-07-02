@@ -29,37 +29,34 @@ void loop()
 
   myOLED.drawRect(startX1, startY1, startX2, startY2);
 
-  if(x_value < 50 || x_value > 1000 || y_value < 50 || y_value > 1000){
+  if(x_value < 50 || x_value > 1000 || y_value < 50 || y_value > 1000)
+  {
     step = 4;
   }    
-  else{
+  else
+  {
     step = 1;
   } 
   
 
   if(x_value < 250 && startY1 > 0)
   {// movement to up
-    
     startY1 -= step;
     startY2 -= step;
-
   }
-  else if (x_value > 750 && startY1 < 59)
+  else if (x_value > 600 && startY1 < 59)
   {
-    
     startY1 += step;
     startY2 += step;
   }
 
   if(y_value < 250 && startX1 < 123)
   {
-   
     startX1 += step;
     startX2 += step;
   }
   else if (y_value > 750 && startX1 > 0)
   {
-    
     startX1 -= step;
     startX2 -= step;
   }
