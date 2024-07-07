@@ -9,8 +9,8 @@ Next up to final parts below the list
 - battery
 - circuit board
 # ROAD MAP ⭐
-- Figure out how oled screens works, use librarys
-- Create basic dot controllable with joystick to oled screen
+- Figure out how oled screens works, use librarys ✅
+- Create basic dot controllable with joystick to oled screen ✅
 - create basic snake game
 - Test battery and charge unit performence
 - Draw and print body
